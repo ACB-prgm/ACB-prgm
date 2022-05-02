@@ -1,8 +1,8 @@
 ## EXPERIENCE
-### Research Assistant (Data Analyst) | NYITCOM, Lab of Dr. Granatosky
-- Utilized the Google Maps API to create Heat map figures from position data
-- Created animated line graphs and 2D line skeleton from force and joint position data respectively
-- Webscraped thousands of data points for analysis
+### [Research Assistant (Data Analyst) | NYITCOM, Lab of Dr. Granatosky](https://github.com/ACB-prgm/Granatosky2.git)
+- Utilized the [Google Maps API to create Heat map](https://github.com/ACB-prgm/Granatosky2/tree/master/DataAnalysis/Heatmap) figures from position data
+- Created animated [line graphs](https://github.com/ACB-prgm/Granatosky2/tree/master/ForceGraphs) and [2D line skeleton](https://github.com/ACB-prgm/Granatosky2/tree/master/HumanRunning) from force and joint position data respectively
+- [Webscraped](https://github.com/ACB-prgm/Granatosky2/tree/master/FeatherScrape) thousands of data points for analysis
 - Cleaned, scaled, and analyzed data for a variety of different research topics
 ### Research on Disability in Malawi
 - Drew conclusions using Scipy statistics
