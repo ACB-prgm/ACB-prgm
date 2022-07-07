@@ -11,7 +11,13 @@
   - Wilcoxon signed-rank test
 - Collected data in person while distributing mobility devices
 
-## General Proficiencies
+## PROJECTS
+### [Crypto Trading Bot](https://github.com/ACB-prgm/CryptoTradingBot)
+- Utilized the Yahoo Finance and Robinhood APIs to gather historical market data and make trades
+- Used regression analysis to correlate crypto movement to different market indexes (eg VIX and SP500)
+- Utilized AWS S3 and pickle to make a log and cache system of historical data without taking up disc space
+
+## TECHNICAL SKILLS
 **Python 3** | Pandas, Scipy, Matplotlib, Numpy, OpenCV (cv2)
 
 **Graphic Design** | Affinity Designer and Affinity Photo
