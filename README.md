@@ -12,30 +12,21 @@
 - Collected data in person while distributing mobility devices
 
 ## PROJECTS
-### [Crypto Trading Bot](https://github.com/ACB-prgm/CryptoTradingBot)
-- Utilized the Yahoo Finance and Robinhood APIs to gather historical market data and make trades
-- Used regression analysis to correlate crypto movement to different market indexes (eg VIX and SP500)
-- Utilized AWS S3 and pickle to make a log and cache system of historical data without taking up disc space
+### [Analyzing Consumer Sentiment on Twitter with Machine Learning (NLP)](https://github.com/ACB-prgm/Phase3Project.nosync)
+I developed machine learning models to predict sentiment about various products on Twitter, enabling businesses to quickly and accurately analyze social media data and gain valuable insights. I combined and filtered two datasets, cleaned and processed the data, and engineered features to improve model performance. I trained and evaluated binary and multiclass classification models using accuracy, precision, recall, and macro-averaged F1 score as evaluation metrics. Using the sentiment analysis models, I identified areas for improvement, responded to customer feedback, informed product development, and monitored competitors. The project demonstrated the value of sentiment analysis for businesses looking to make data-driven decisions based on customer feedback.
+
+### [Predicting Hospital Readmissions Using Machine Learning](https://github.com/ACB-prgm/HospitalReadmissionPrediction)
+This project uses machine learning to predict the likelihood of readmission within 30 days of initial discharge for diabetes patients. By analyzing admission, demographic, clinical, medication, and discharge data, the model identifies high-risk patients and provides targeted interventions to reduce the likelihood of readmission. The project demonstrates the potential of data science and machine learning in healthcare, and contributes to efforts to improve patient outcomes and reduce healthcare costs.
+
+### [Predicting Website Purchases using Ensemble Tree Models for Revenue Optimization](https://github.com/ACB-prgm/Phase3Project.nosync)
+The goal of this project was to develop a machine learning classification model to predict whether a user's activity on a company website would lead to a purchase. To achieve this, I utilized several ensemble tree models, including XGBoost and Light GBM, on a dataset of 6165 user sessions. Through preprocessing, hyperparameter tuning, and model optimization, I achieved an accuracy of 93.76% with good precision. Deploying this model would enable companies to better target their marketing, optimize their website, and incorporate dynamic pricing in order to boost revenue.
+
 
 ## TECHNICAL SKILLS
-**Python 3** | Pandas, Scipy, Matplotlib, Numpy, OpenCV (cv2)
+**Python 3** | Pandas, SKLearn, Keras, Tensorflow, Scipy, Matplotlib, Numpy, OpenCV (cv2)
 
 **Graphic Design** | Affinity Designer and Affinity Photo
 
 **Godot / GDScript**
 
 **Spanish** | Conversational
-<!--
-**ACB-prgm/ACB-prgm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
